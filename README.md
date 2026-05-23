@@ -27,7 +27,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/fryfries13"><img src="https://img.shields.io/badge/GitHub-Fry酥条.-blue?logo=github" /></a>
+<a href="https://github.com/fryfries13"><img src="https://img.shields.io/badge/GitHub-Fry酥条-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/1808002444"><img src="https://img.shields.io/badge/哔哩哔哩-Fry酥条-pink?logo=bilibili" /></a>
 <a href="https://www.youtube.com/@FryFries13"><img src="https://img.shields.io/badge/YouTube-Ctrl_Flow-red?logo=youtube" /></a>
 <a href="https://qm.qq.com/q/kCPaNE4fhC"><img src="https://img.shields.io/badge/QQ-370002394-green?logo=qq" /></a>
