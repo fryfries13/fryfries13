@@ -181,9 +181,4 @@
 </p>
 
 <!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
-  <i>如果您觉得这个模板有帮助，请考虑给一个⭐️支持一下!</i> 
-</p>
-
-<!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
