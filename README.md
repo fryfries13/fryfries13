@@ -1,7 +1,5 @@
-<div align="center">
-  
-  <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Fry_Fries&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Welcome to Fry_Fries's Tiny Home!&descAlignY=55" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Fry酥条&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
   
   # 👋 Hello，here is Fry_Fries!
   
