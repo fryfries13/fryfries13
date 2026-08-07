@@ -42,7 +42,7 @@
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab,git,vscode,codex,github,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab,nodejs,git,vscode,github,docker&perline=9" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
   
