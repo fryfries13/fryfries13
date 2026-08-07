@@ -13,20 +13,19 @@
     <p align="center">
     <a href="https://github.com/fryfries13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:fryfries13@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.kaggle.com/ZephyrZhong248"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-    <a href="https://orcid.org/0009-0003-0132-2036"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-    <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-    <a href="https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
+    <a href="https://space.bilibili.com/1808002444"><img src="https://img.shields.io/badge/Bilibili-20BEFF?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+    <a href="https://qm.qq.com/q/kCPaNE4fhC"><img src="https://img.shields.io/badge/QQ-green?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/></a>
+    <a href="https://t.me/FryFries13"><img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="https://www.youtube.com/channel/UCy4J3ZvUXsvvn0JvEL4JPig"><img src="https://img.shields.io/badge/Youtube-FF2442?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
 </p>
     
   </p>
 
 <!-- 动态访问计数器 - 增强效果 -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-    <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet](https://komarev.com/ghpvc/?username=fryfries13&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+    <img src="https://img.shields.io/github/followers/fryfries13?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+    <img src="https://img.shields.io/github/stars/fryfries13?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
   </p>
   <p>
