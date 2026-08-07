@@ -49,7 +49,7 @@
 </div>
 
 <!-- 擅长领域标题 - 统一样式并对齐图标 -->
-
+###
 <!-- 动态分隔符 - 使用更现代的设计 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
