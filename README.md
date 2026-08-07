@@ -12,7 +12,7 @@
   <p align="center">
     <p align="center">
     <a href="https://github.com/fryfries13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:fryfries13@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" alt="Email"/></a>
+    <a href="mailto:fryfries13@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.kaggle.com/ZephyrZhong248"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
     <a href="https://orcid.org/0009-0003-0132-2036"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
     <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -182,44 +182,8 @@
 
 <!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
-
-<!-- 动态分隔符 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
-
-<h2 id="许可协议" align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  许可协议
-</h2>
-
-<div align="center">
-  <p>本模板采用 <a href="https://opensource.org/licenses/MIT">MIT 许可证</a> 进行授权</p>
-  
-  <p>您可以自由地：</p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>✅ 使用本模板创建个人 GitHub Profile</li>
-    <li>✅ 修改和定制以满足您的需求</li>
-    <li>✅ 分发您修改后的版本</li>
-  </ul>
-  
-  <p>条件是：</p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>📝 保留原始版权声明</li>
-    <li>📝 不追究作者责任</li>
-  </ul>
-  
-  <p>
-    <a href="https://opensource.org/licenses/MIT">
-      <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License" />
-    </a>
-  </p>
-</div>
-
-<!-- 页脚 -->
-<p align="center">
   <i>如果您觉得这个模板有帮助，请考虑给一个⭐️支持一下!</i> 
 </p>
 
 <!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
