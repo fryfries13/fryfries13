@@ -14,8 +14,8 @@
     <a href="https://github.com/fryfries13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:fryfries13@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://space.bilibili.com/1808002444"><img src="https://img.shields.io/badge/Bilibili-20BEFF?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
-    <a href="https://qm.qq.com/q/kCPaNE4fhC"><img src="https://img.shields.io/badge/QQ-green?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/></a>
-    <a href="https://t.me/FryFries13"><img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="https://qm.qq.com/q/kCPaNE4fhC"><img src="https://img.shields.io/badge/QQ-F9AD08?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/></a>
+    <a href="https://t.me/FryFries13"><img src="https://img.shields.io/badge/Telegram-289FDB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
     <a href="https://www.youtube.com/channel/UCy4J3ZvUXsvvn0JvEL4JPig"><img src="https://img.shields.io/badge/Youtube-FF2442?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
 </p>
     
@@ -27,9 +27,6 @@
     <img src="https://img.shields.io/github/followers/fryfries13?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
     <img src="https://img.shields.io/github/stars/fryfries13?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
-  </p>
-  <p>
-  <img src="https://profile-counter.glitch.me/{zyh3699}/count.svg" alt="访问计数器" />
   </p>
 </div>
 
